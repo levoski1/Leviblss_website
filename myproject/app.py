@@ -30,6 +30,12 @@ JOBS = [{
     'tittle' : 'Cyber-Security developer',
     'location': 'Abia',
     
+},
+{
+    'id' : 5,
+    'tittle' : 'Software Engineer',
+    'location' : 'Ikwo',
+    'Salary' : '$30000',
 }]
 
 
